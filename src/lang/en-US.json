@@ -1,0 +1,15 @@
+{
+    "lang": "en",
+    "name": "Inletsky",
+    "description": "BrainNet. GL JS is a Networking library for vector networking on  the Web. Its performance, real-time styling, and interactivity features set the bar for anyone building fast, immersive tech on the web.",
+
+    "explore": "EXPLORE MORE",
+
+    "menu.overview": "Overview",
+    "menu.howwework": "How we work",
+    "menu.pricing": "Pricing",
+    "menu.logout": "Logout",
+
+    "menu.login": "LOGIN",
+    "menu.resigter": "SIGNUP"
+}
